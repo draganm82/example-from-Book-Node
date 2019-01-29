@@ -1,0 +1,15 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Censored word is out of the text",
+  "main": "censortext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "engines":{
+    "node": "*"
+  },
+  "author": "Dragan M",
+  "license": "ISC"
+}

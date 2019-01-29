@@ -1,0 +1,78 @@
+Current directory : C:\Atom\Node and Mongoos Book\9.Multiple Process in Node
+Environment Settings: {"ACLOCAL_PATH":"/mingw64/share/aclocal:/usr/share/aclocal
+","ADSK_3DSMAX_x64_2019":"C:\\Program Files\\Autodesk\\3ds Max 2019\\","ALLUSERS
+PROFILE":"C:\\ProgramData","APPDATA":"C:\\Users\\draga\\AppData\\Roaming","Choco
+lateyInstall":"C:\\ProgramData\\chocolatey","ChocolateyLastPathUpdate":"Sun Dec
+23 01:03:22 2018","COMMONPROGRAMFILES":"C:\\Program Files\\Common Files","Common
+ProgramFiles(x86)":"C:\\Program Files (x86)\\Common Files","CommonProgramW6432":
+"C:\\Program Files\\Common Files","COMPUTERNAME":"DESKTOP-G7QDME7","COMSPEC":"C:
+\\WINDOWS\\system32\\cmd.exe","CONFIG_SITE":"/mingw64/etc/config.site","DISPLAY"
+:"needs-to-be-defined","DriverData":"C:\\Windows\\System32\\Drivers\\DriverData"
+,"EXEPATH":"C:\\Program Files\\Git","HOME":"C:\\Users\\draga","HOMEDRIVE":"C:","
+HOMEPATH":"\\Users\\draga","HOSTNAME":"DESKTOP-G7QDME7","INFOPATH":"/usr/local/i
+nfo:/usr/share/info:/usr/info:/share/info","LANG":"en_US.UTF-8","LOCALAPPDATA":"
+C:\\Users\\draga\\AppData\\Local","LOGONSERVER":"\\\\DESKTOP-G7QDME7","MANPATH":
+"/mingw64/local/man:/mingw64/share/man:/usr/local/man:/usr/share/man:/usr/man:/s
+hare/man","MINGW_CHOST":"x86_64-w64-mingw32","MINGW_PACKAGE_PREFIX":"mingw-w64-x
+86_64","MINGW_PREFIX":"/mingw64","MSYSTEM":"MINGW64","MSYSTEM_CARCH":"x86_64","M
+SYSTEM_CHOST":"x86_64-w64-mingw32","MSYSTEM_PREFIX":"/mingw64","NUMBER_OF_PROCES
+SORS":"2","OneDrive":"C:\\Users\\draga\\OneDrive","OneDriveConsumer":"C:\\Users\
+\draga\\OneDrive","ORIGINAL_PATH":"C:\\Program Files\\Git\\mingw64\\bin;C:\\Prog
+ram Files\\Git\\usr\\bin;C:\\Users\\draga\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS
+;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\
+WINDOWS\\System32\\OpenSSH;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\C
+ore-Static;C:\\Program Files\\Common Files\\Autodesk Shared;C:\\Program Files\\P
+uTTY;C:\\Program Files\\Git\\cmd;C:\\Python\\Python37;C:\\Program Files (x86)\\B
+rackets\\command;C:\\Program Files\\nodejs;C:\\ProgramData\\chocolatey\\bin;C:\\
+Users\\draga\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\draga\\AppData\\
+Local\\Programs\\Microsoft VS Code\\bin;C:\\Rad\\flutter\\bin;C:\\Users\\draga\\
+AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin","ORIGINAL_TEMP":"/tmp","OR
+IGINAL_TMP":"/tmp","OS":"Windows_NT","PATH":"C:\\Users\\draga\\bin;C:\\Program F
+iles\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program File
+s\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw6
+4\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\draga\\bin;C:\\WINDOWS\\syste
+m32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerS
+hell\\v1.0;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files (x86)\\ATI Technolog
+ies\\ATI.ACE\\Core-Static;C:\\Program Files\\Common Files\\Autodesk Shared;C:\\P
+rogram Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Python\\Python37;C:\\Program
+ Files (x86)\\Brackets\\command;C:\\Program Files\\nodejs;C:\\ProgramData\\choco
+latey\\bin;C:\\Users\\draga\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\d
+raga\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Rad\\flutter\\bin;C:\
+\Users\\draga\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin;C:\\Program
+Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl","
+PATHEXT":".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC","PKG_CONFIG_PAT
+H":"/mingw64/lib/pkgconfig:/mingw64/share/pkgconfig","PLINK_PROTOCOL":"ssh","PRO
+CESSOR_ARCHITECTURE":"AMD64","PROCESSOR_IDENTIFIER":"AMD64 Family 20 Model 2 Ste
+pping 0, AuthenticAMD","PROCESSOR_LEVEL":"20","PROCESSOR_REVISION":"0200","Progr
+amData":"C:\\ProgramData","PROGRAMFILES":"C:\\Program Files","ProgramFiles(x86)"
+:"C:\\Program Files (x86)","ProgramW6432":"C:\\Program Files","PS1":"\\[\\033]0;
+$TITLEPREFIX:$PWD\\007\\]\\n\\[\\033[32m\\]\\u@\\h \\[\\033[35m\\]$MSYSTEM \\[\\
+033[33m\\]\\w\\[\\033[36m\\]`__git_ps1`\\[\\033[0m\\]\\n$ ","PSModulePath":"%Pro
+gramFiles%\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\
+\v1.0\\Modules","PUBLIC":"C:\\Users\\Public","PWD":"/c/Atom/Node and Mongoos Boo
+k/9.Multiple Process in Node","SHELL":"C:\\Program Files\\Git\\usr\\bin\\bash.ex
+e","SHLVL":"1","SSH_ASKPASS":"/mingw64/libexec/git-core/git-gui--askpass","SYSTE
+MDRIVE":"C:","SYSTEMROOT":"C:\\WINDOWS","TEMP":"C:\\Users\\draga\\AppData\\Local
+\\Temp","TMP":"C:\\Users\\draga\\AppData\\Local\\Temp","TMPDIR":"C:\\Users\\drag
+a\\AppData\\Local\\Temp","USERDOMAIN":"DESKTOP-G7QDME7","USERDOMAIN_ROAMINGPROFI
+LE":"DESKTOP-G7QDME7","USERNAME":"draga","USERPROFILE":"C:\\Users\\draga","WINDI
+R":"C:\\WINDOWS","_":"/usr/bin/winpty"}
+Node argv : C:\Program Files\nodejs\node.exe,C:\Atom\Node and Mongoos Book\9.Mul
+tiple Process in Node\process_info
+Execution Path: C:\Program Files\nodejs\node.exe
+Execution Args: []
+Node Version: v11.5.0
+Module Versions: {"node":"11.5.0","v8":"7.0.276.38-node.13","uv":"1.24.0","zlib"
+:"1.2.11","ares":"1.15.0","modules":"67","nghttp2":"1.34.0","napi":"3","llhttp":
+"1.0.1","http_parser":"2.8.0","openssl":"1.1.0j","icu":"63.1","unicode":"11.0","
+cldr":"34.0","tz":"2018e"}
+Process ID: 11764
+Process Title:
+Process Platform: win32
+Process Architecture: x64
+Memory Usage: { rss: 18702336,
+  heapTotal: 5980160,
+  heapUsed: 3230848,
+  external: 8296 }
+High-Res timer took 1 seconds and 4137840 nanoseconds
+Node has been running 1.508 seconds
